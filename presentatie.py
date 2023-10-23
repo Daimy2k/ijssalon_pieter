@@ -1,6 +1,6 @@
 def presenteer(dictionary,totaal):
     
-    uitvoer=[]
+    uitvoer=""
     for k,v in dictionary.items():
         print(k,":",v, "euro")
     print("==========================")
